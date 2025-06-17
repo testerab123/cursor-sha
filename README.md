@@ -1,4 +1,4 @@
-# Cursor Privithi
+# Cursor Prithivi
 ## Windows cursor changed into Prithivi Narayan Shaha's Iconic Pose
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/testerab123/cursor-sha)
